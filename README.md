@@ -2,7 +2,7 @@
 # 🌑 **Stellanos** — A Ronin’s Journey
 
 ## ✨ Overview
-**Stellanos** is a cinematic 2D action-adventure Metroidvania that follows a lone ronin crossing a fractured world filled with sorrow, mystery, and relentless foes. Built using **2D models rendered into a stylized 2D world**, every environment, character, and animation is crafted with **AI-generated assets**, giving the game a distinct atmospheric identity.
+**Stellanos** is a cinematic 2D action-adventure Metroidvania that follows a lone ronin crossing a fractured world filled with sorrow, mystery, and relentless foes. Built using **2D models rendered into a stylized 2D world**, every environment, character, and animation is crafted with **AI-generated assets**, giving the game a distinct identity.
 
 ## ⚔️ Core Features
 - **Precision Parry Combat** — Deflect attacks with perfect timing to stagger enemies and create counter opportunities.  
